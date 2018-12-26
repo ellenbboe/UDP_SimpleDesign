@@ -11,3 +11,9 @@
 ### 服务器端
 
 ![service](pic/service.png)
+
+
+##### 草稿图
+>(设计的时候部分草稿,留作纪念贴上来)
+
+![草稿](pic/caogao.png)
