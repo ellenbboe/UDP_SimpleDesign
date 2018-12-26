@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/UdpService.dir/main.c.o  -o UdpService -lpthread 
